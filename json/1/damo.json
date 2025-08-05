@@ -1,0 +1,18 @@
+{
+  "profileImageUrl": "https://files.mdjhs.com/jhs.jpg",
+  "profileName": "Julfiker Hossen Shebbir",
+  "profileDescription": "A brief description about yourself.",
+  "links": [
+    { "platform": "Website", "url": "https://mdjhs.com", "category": "official" },
+    { "platform": "Twitter", "url": "https://twitter.com/", "category": "social" }
+  ],
+  "iconMap": {
+    "website": "bi-globe2",
+    "twitter": "bi-twitter-x",
+    "default": "bi-link-45deg"
+  },
+  "categoryNames": {
+    "official": "Official Links",
+    "social": "Social Media"
+  }
+}
